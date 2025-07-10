@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dev! 👋
 
-<!--
-**VED13022008/VED13022008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring full-stack developer currently learning Web Development and Git.  
+I love building clean, responsive UIs and exploring how design and tech come together.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript (learning phase)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Profile Card V2 – Personal branding project (in progress)
+- GitHub README – This profile you're viewing right now 👀
+
+## 🧠 Currently Working On
+- Web Dev projects
+- Frontend practice
+- GitHub repo optimization
+
+## 📫 Connect with Me
+- Email: [devsirohi578@gmail.com](mailto:devsirohi578@gmail.com)
+- LinkedIn: [https://linkedin.com/in/dev-sirohi-b95350374](https://linkedin.com/in/dev-sirohi-b95350374)
+
+
